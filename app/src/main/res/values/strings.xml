@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Eye Protector</string>
+    <string name="thirdButtonName">Distance\n\Measurement</string>
+    <string name="secondButtonName">Screen\n\Time</string>
+    <string name="firstButtonName">Position\n\Detection</string>
+    <string name="positionExp">Enable this feature will automatically send you notification</string>
+    <string name="enablePositionDetction">Enable/Disable</string>
+    <string name="enableScreenDetction">Enable/Disable Automatic Notification</string>
+    <string name="setTimeText">Enter the time limit for screen usage\n\(Recommend: 40 minutes)</string>
+    <string name="currentTime">Current Session Time:</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="channel_name">Time remaining</string>
+    <string name="channel_description">Displays how much time is left</string>
+    <string name="channel_name_completed">Timer completed</string>
+    <string name="channel_description_completed">Displays when the timer completes</string>
+    <string name="timer_finished">You have reached the maximum of the screen usage</string>
+    <string name="lightWarning">Please reduce your set time for screen usage\n\due to low light environment</string>
+    <string name="ok">OK</string>
+    <string name="check_position">Please check your distance with the screen</string>
+    <string name="channel_position">Harmful Position Reminder</string>
+    <string name="channel_position_description">Remind user if in a wrong position</string>
+    <string name="channel_light">Low Light Reminder</string>
+    <string name="channel_light_description">Reminder user if in low light environment</string>
+</resources>
